@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.title-main{
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.subtitle{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
